@@ -1,5 +1,5 @@
 {
-  "name": "vue-popup",
+  "name": "@tuniu/vue-popup",
   "version": "0.1.13",
   "description": "A popup mixin for vue.js",
   "private": false,
